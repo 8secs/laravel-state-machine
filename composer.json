@@ -1,5 +1,5 @@
 {
-    "name": "8secs/laravel-state-machine",
+    "name": "sebdesign/laravel-state-machine",
     "description": "Winzou State Machine service provider for Laravel",
     "keywords": [
         "laravel",
